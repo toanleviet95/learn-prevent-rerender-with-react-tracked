@@ -22,5 +22,6 @@ npm start // or yarn start
 - Build
 ```bash
 npm run build // or yarn build
+```
 
 [build]: https://travis-ci.org/toanleviet95/learn-prevent-rerender-with-react-tracked
