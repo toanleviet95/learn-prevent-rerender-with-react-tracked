@@ -25,3 +25,4 @@ npm run build // or yarn build
 ```
 
 [build]: https://travis-ci.org/toanleviet95/learn-prevent-rerender-with-react-tracked
+[build-badge]: https://travis-ci.com/toanleviet95/learn-prevent-rerender-with-react-tracked.svg?branch=main
